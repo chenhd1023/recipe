@@ -1,4 +1,4 @@
-# canel?
+# canele
 
 ## 食材
 
