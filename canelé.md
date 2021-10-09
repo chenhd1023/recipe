@@ -1,36 +1,36 @@
 # canel?
 
-## ����
+## 食材
 
-* 550 ml ���� / milk
-* 50 g �L�Q���o / unsalted butter
-* 220 g ��} / sugar
-* �ֳ\ �Q / salt
-* 110 g �����ѯ� / bread flour
-* 2 �� ���J / whole egg
-* 2 �� �J�� / egg yolk
-* 50 ml ���i�s / dark rum
-* 1�w ����� / vanilla bean
-* 15g �����B25g ���o / beeswax, butter �]��ҥΡ^
+* 550 ml 牛奶 / milk
+* 50 g 無鹽奶油 / unsalted butter
+* 220 g 砂糖 / sugar
+* 少許 鹽 / salt
+* 110 g 高筋麵粉 / bread flour
+* 2 顆 全蛋 / whole egg
+* 2 顆 蛋黃 / egg yolk
+* 50 ml 蘭姆酒 / dark rum
+* 1滴 香草精 / vanilla bean
+* 15g 蜂蠟、25g 奶油 / beeswax, butter （塗模用）(下次實驗1:3)
 
-## �@�k
+## 作法
 
-1. �����B���o�B��}�B�Q�@�_�[���ܷL�u�A������A�y�L��D�ܷŷŪ��ūסC
+1. 牛奶、奶油、砂糖、鹽一起加熱至微滾，熄火後，稍微放涼至溫溫的溫度。
 
-2. �ѯ��[�J���J�B�J���դáC
+2. 麵粉加入全蛋、蛋黃拌勻。
 
-3. �N1�R�J2���A�ͩէ��áA��D��[�J���i�s�B�����C�R�m�ܤ�24�p�ɡA�̦n48�p�ɤ~�����ѯ��o�����X�@�ΡA�N�X�i�R�S�̨Ϊ���´�򭷨��C
+3. 將1沖入2中，攪拌均勻，放涼後加入蘭姆酒、香草精。靜置至少24小時，最好48小時才能讓麵粉發揮水合作用，烤出可麗露最佳的組織跟風味。
 
-4. �N�c�w���̰��Ŧܤ֥b�p�ɡC
+4. 麵糊退冰，烤箱預熱最高溫至少半小時。
 
-5. �Ĥƥժo�A�Ҩ�i�N�c�N��30~45�������ܷŷŪ��C
+5. 融化白油，模具進烤箱烤個30~45秒讓它變溫溫的。
 
-6. �N�ĤƦn���ժo�ˤJ�i�R�S�ҡA�A�ߨ�˥X�A�d�U�������@�h�C�N�Ҩ㧹���N�o�A�̦n�i�B�c�N�ä������C
+6. 將融化好的白油倒入可麗露模，再立刻倒出，留下薄薄的一層。將模具完全冷卻，最好進冰箱冷藏五分鐘。
 
-7. �ѽk���ݭn�h�B�A�����ˤJ�N�o���Ҩ㤤��4/5���סA������t1cm�����סC
-    * �p�G�A�]�ϥ������ɼ�: �ѽk�C�ӭ��q +/- 70g(���Ƿ|���Ӱ�)
-    * �ˤӦh�ѽk�Ϧӷ|���ѽk���X�L�h�A�N�c�|�J�����~�A�i�R�S�Ϧӷ|���X�L�h���ѽk�Өϳ̫᪺��n�Y�p�C
+7. 麵糊不需要退冰，直接倒入冷卻的模具中至4/5高度，約離邊緣1cm的高度。
+    * 如果你也使用霜鳥銅模: 麵糊每個重量 +/- 70g(有些會長太高下次實驗68g) 
+    * 倒太多麵糊反而會讓麵糊溢出過多，烤箱會焦掉之外，可麗露反而會溢出過多的麵糊而使最後的體積縮小。
 
-8. �i�l��A�N�c���Ŧ�230�סA�N30���ܪ������ѽk���֩w���A���Ŧ�190�ׯN60�������ѽk�����w���A�����e�{�J�}�ƪ��C��C
+8. 進爐後，烤箱降溫至230度，烤90分直到麵糊完全定型，底部呈現焦糖化的顏色。
 
-9. �X�l��A�ߨ�˦���ҡA�ݥi�R�S�����N�o�A�����w�ƫ�A���ΡC
+9. 出爐後，立刻倒扣脫模(須留空間駛抵不能正常通風)，待可麗露完全冷卻，表面硬化後再食用。
